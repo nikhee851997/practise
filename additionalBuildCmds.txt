@@ -49,4 +49,3 @@ HEALTHCHECK --interval=1m --start-period=5m \
 # Create and Start OUD Instance
 # ENTRYPOINT ["sh", "-c", "${SCRIPT_DIR}/createAndStartOUDInstance.sh"]
 CMD ["sh", "-c", "${SCRIPT_DIR}/createAndStartOUDInstance.sh"]
-Modified by Nik
