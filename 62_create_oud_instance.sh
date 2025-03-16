@@ -5,8 +5,8 @@
 # ---------------------------------------------------------------------------
 # Name.......: 62_create_oud_instance.sh 
 # Author.....: Stefan Oehrli (oes) stefan.oehrli@trivadis.com
-# Editor.....: Stefan Oehrlinikhil
-# Date.......: 2017.12.08
+# Editor.....: Stefan Oehrli
+# Date.......: 2017.12.04
 # Revision...: 
 # Purpose....: Helper script to create the OUD instance 
 # Notes......: Script to create an OUD instance. If configuration files are
